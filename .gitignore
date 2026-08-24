@@ -1,0 +1,32 @@
+# IDE files
+.idea/
+*.iml
+*.iws
+
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# Local configuration
+local.properties
+
+# Android specific
+.cxx/
+.externalNativeBuild/
+captures/
+output.json
+
+# Signing files
+*.jks
+*.keystore
+*.google_play_signing_key
+
+# Release artifacts
+/app/release/
+*.apk
+*.aab
+
+# OS files
+.DS_Store
+Thumbs.db
